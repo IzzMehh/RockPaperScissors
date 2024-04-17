@@ -5,6 +5,6 @@ This is a Rock Paper Scissors game. ( made with Html , CSS and JavaScript ).
 
 <b> This is a paper scissors rock game.</b>
 
-``It stores the user score and total game count and in the Browser's Local storage.``
+``It stores the score and total game count and in the Browser's Local storage.``
 
 Built with Html , Css and JavaScript.
