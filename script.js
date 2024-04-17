@@ -26,6 +26,7 @@ let gameCount = JSON.parse(localStorage.getItem('Game Played'));
 
 document.getElementById('score-count-user').innerText =`${points.user}`;
 document.getElementById('score-count-computer').innerText =`${points.computer}`;
+document.getElementById('game-count').innerText = `Game Count: ${gameCount}`;
 
 
 function algorithm(){
